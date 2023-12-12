@@ -9,7 +9,7 @@ html{
 }
 
 body {
-    background-image: url(blurry-gradient-haikei.svg);
+    background-image: url(./Assets/blurry-gradient-haikei.svg);
     background-size: cover;
     background-attachment: fixed;
   }
